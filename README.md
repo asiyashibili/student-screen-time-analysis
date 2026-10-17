@@ -2,51 +2,43 @@
 
 ## Project Overview
 
-This project investigates online usage patterns among students and examines their perceived impact on academic performance, healthcare, e-commerce, digital banking, mental health, transportation, daily routines, and social commitment. It also explores students' awareness of cyber fraud and online services.
-
-This study was completed as a college group project using statistical analysis and graphical representations of collected data.
+This college group project investigates students' online usage patterns and their perceived impact on academic performance, healthcare, e-commerce, net banking, mental health, transportation, daily routines, and social commitment. It also examines awareness of cyber fraud.
 
 ## Objectives
 
-* Analyze the demographic distribution of respondents and their online usage patterns.
-* Examine gender-related differences in the perceived impact of online activities on students' daily routines and other aspects of life.
-* Assess awareness of cyber fraud and trust in online services across different modes of study.
-* Investigate the perceived influence of digital engagement on academic performance and social commitment.
-* Identify barriers to adopting online services such as e-commerce, digital banking, and telemedicine.
+* Analyze respondents' demographic characteristics and online usage patterns.
+* Examine gender-related differences in the perceived impact of online activities.
+* Assess awareness of cyber fraud and trust in online services.
+* Investigate the perceived effects of digital engagement on academic performance and social commitment.
+* Identify barriers to adopting e-commerce, digital banking, and telemedicine.
 
-## Tools and Techniques
+## Tools and Statistical Methods
 
 * **Microsoft Excel:** Data organization, calculations, and graphical representation.
 * **Descriptive Statistics:** Mean and standard deviation.
-* **Analysis of Variance (ANOVA):** To examine differences between group means.
-* **Chi-square Test of Independence:** To investigate associations between categorical variables.
+* **ANOVA:** To examine differences between group means.
+* **Chi-square Test of Independence:** To examine associations between categorical variables.
 
 ## Methodology
 
-1. Collected and organized data from respondents.
-2. Presented demographic information and online usage patterns through diagrams and charts.
-3. Calculated mean and standard deviation to summarize the data.
-4. Applied ANOVA to examine differences between selected groups.
-5. Used Chi-square tests to investigate associations involving gender, mode of study, online usage impacts, and awareness of cyber fraud.
-6. Interpreted the statistical results and formulated conclusions and suggestions.
-
-## Areas of Analysis
-
-* Demographic characteristics and online usage patterns.
-* Academic performance and learning.
-* Healthcare and e-commerce.
-* Net banking and cyber fraud awareness.
-* Mental health and social media.
-* Transportation and time consumption.
-* Daily routines and social commitment.
+1. Organized and summarized the collected student data.
+2. Used diagrams and charts to represent demographic characteristics and online usage patterns.
+3. Calculated mean and standard deviation.
+4. Applied ANOVA and Chi-square tests to investigate relationships and differences involving gender, mode of study, and online usage impacts.
+5. Interpreted the results and developed conclusions and suggestions.
 
 ## Key Findings
 
-The study examines students' online usage patterns and their perceived effects on various aspects of daily life. Specific statistical findings and conclusions will be added after verifying the original project results.
+* **Daily Routine and Time Management:** The study found no statistically significant gender-based difference in the mean perceived impact of online usage on daily routines and time consumption.
+* **Net Banking:** A statistically significant association was found between gender and the perceived impact of online usage on net banking.
+* **Healthcare and E-commerce:** No statistically significant gender-based difference was found in the mean perceived impact of online usage on healthcare or e-commerce.
+* **Mental Health and Social Commitment:** The analysis found no statistically significant association between gender and the perceived impact of online usage on mental health or lack of social commitment.
+* **Cyber Fraud Awareness:** No statistically significant association was found between mode of study and awareness of cyber fraud.
+* **Educational Consistency:** The findings suggest that the perceived effects of digital habits on students' educational schedules were similar across genders.
 
 ## Conclusion
 
-This project provided practical experience in statistical analysis, hypothesis testing, and data visualization. It applied descriptive statistics, ANOVA, and Chi-square tests to investigate online usage patterns and their perceived effects on students' academic, social, and everyday activities.
+The project applied descriptive statistics, ANOVA, and Chi-square tests to study students' online usage patterns and their perceived effects on academic, social, and everyday activities. It provided practical experience in statistical hypothesis testing, data interpretation, and graphical representation.
 
 ## Project Type
 
@@ -54,5 +46,4 @@ College Group Project
 
 ## References
 
-Refer to the references section of the original project report.
-
+See the references section of the original project report.
