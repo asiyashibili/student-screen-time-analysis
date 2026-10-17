@@ -1,4 +1,4 @@
-# Student Screen Time Analysis
+# DOUBLE EDGED WORLD OF ONLINE AFFAIRS AMONG STUDENTS
 
 ## Project Overview
 
